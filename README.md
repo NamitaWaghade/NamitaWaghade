@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🇮🇳 Based in India &nbsp;|&nbsp; 🇩🇪 Open to opportunities in Germany & India
+  Based in India &nbsp;|&nbsp; 🇩🇪 Open to opportunities in Germany & India
 </p>
 
 ---
